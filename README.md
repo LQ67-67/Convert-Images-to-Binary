@@ -8,7 +8,8 @@
 
 This is a basic image-to-binary converter using the Pillow library. It prints the pixel values and displays the converted black-and-white image.
 ![image](https://github.com/user-attachments/assets/aa2b3efe-1009-4fec-ba84-4bdbfe74ffa4)
-![image](https://github.com/user-attachments/assets/95657798-bfc9-4798-bc94-81f109c9d8b5)
+![image](https://github.com/user-attachments/assets/6c38a599-5090-4e76-91c7-e1f490dc4ded)
+
 
 ### 🚀 功能 | Features
 
