@@ -7,6 +7,8 @@
 这是一个基础的图像转黑白脚本，使用 Python Pillow 库读取图像，打印像素值，并将图像转换为黑白后显示。
 
 This is a basic image-to-binary converter using the Pillow library. It prints the pixel values and displays the converted black-and-white image.
+![image](https://github.com/user-attachments/assets/aa2b3efe-1009-4fec-ba84-4bdbfe74ffa4)
+![image](https://github.com/user-attachments/assets/95657798-bfc9-4798-bc94-81f109c9d8b5)
 
 ### 🚀 功能 | Features
 
@@ -53,6 +55,7 @@ This is a basic image-to-binary converter using the Pillow library. It prints th
 一个拥有现代化界面的图像转黑白程序，支持图像增强（亮度、对比度、锐化）、实时预览、保存输出等功能。
 
 A modern GUI-based image-to-binary converter. Supports brightness, contrast, sharpness adjustments, live preview, and saving results.
+![image](https://github.com/user-attachments/assets/de3d3f22-7f9c-4152-a416-5a8b34a2a3aa)
 
 ### 🚀 功能 | Features
 
