@@ -1,4 +1,5 @@
 # Convert-Images-to-Binary
+
 ## 🧾 `Image to binary (Simple Version).py`
 
 ### 📌 简介 | Description
@@ -9,9 +10,13 @@ This is a basic image-to-binary converter using the Pillow library. It prints th
 ### 🚀 功能 | Features
 
 * 读取默认图像文件（默认文件名为 `1.jpg`）
+* Read the default image file (the default file name is 1.jpg)
 * 打印图像每个像素的 RGB 值
+* Print the RGB value of each pixel in the image
 * 将图像转换为黑白（二值图像）
+* Convert the image to black and white (binary image)
 * 显示转换后的图像
+* Display the converted image
 
 ### ▶️ 使用方法 | How to Use
 
