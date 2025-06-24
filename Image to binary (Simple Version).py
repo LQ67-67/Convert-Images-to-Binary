@@ -7,7 +7,7 @@ def main( ):
     for pixel in iter(img.getdata()):
         print(pixel)
 
-    img.convert("1").show();
+    img.convert("1").show()
 
 if __name__=='__main__':
     main()
